@@ -23,9 +23,12 @@ h1{
     
 }
 img{
-    width: 70%;
+    display: block;
+    width: 50%;
     min-width: 200px;
-    margin: 5px 15%;
+    max-width: 100%;
+    height:auto;
+    margin: 2px auto;
     
 }
 .medium-box p{
@@ -54,7 +57,7 @@ img{
     padding-left: 3em;
     padding-top: 10px;
 }
-footer h5{
+h5{
     padding-left: 3em;
     padding-top: 10px;
     padding-bottom: 20px;
